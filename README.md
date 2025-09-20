@@ -20,8 +20,8 @@ Attacker aims at "poison someone" from Protector. At same time, Protector will g
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/word-guessing-game.git
-cd word-guessing-game
+git clone https://github.com/ansonuser/llm-play-games
+cd llm-play-games
 ```
 
 2. Install dependencies:
